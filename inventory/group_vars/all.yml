@@ -1,2 +1,5 @@
 ---
 ip_domain_name: from_gv_all.com
+test_var: >
+          abc
+          efg
